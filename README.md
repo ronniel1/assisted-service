@@ -1,7 +1,7 @@
 [![Actions Status](https://github.com/openshift/assisted-service/workflows/unit-test/badge.svg)](https://github.com/openshift/assisted-service/actions)
 
 
-[![Actions Status](https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/img/logo_small.png)](https://generator.swagger.io/?url=https://raw.githubusercontent.com/openshift/assisted-service/master/swagger.yaml)
+[![Actions Status](https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/img/logo_small.png)](swagger.yaml)
 
 
 # assisted-service
